@@ -2,7 +2,7 @@
 Repo of description of python packages and simple examples on how to use them.
 
 
-##Argparse
+## Argparse
 The [argparse](https://docs.python.org/3/library/argparse.html) module makes it easy to write user-friendly command-line interfaces.
 ```python
 parser = argparse.ArgumentParser()
